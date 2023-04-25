@@ -5,11 +5,11 @@ Hackathon Project Submission for Code to Give Alpharetta 2023! This platform is 
 Developed by: Emily Xia, Hugo Munoz Reinoso, Anusha Guruprasad, Amina Isayeva, and Shubham Mishra. Thank you to our mentors Radha Adulla and Ambar Anant!
 
 # Working Prototypes
-While we were unable to finish developing all the new features, we did create two interactive prototypes for the Partner and User Portal. Here is how you can access them:
+While we were unable to finish developing all the new features, we did create two interactive prototypes that we demoed for the Partner and User Portal. Here is how you can access them:
 
-1. Partner Figma Prototype: https://www.figma.com/proto/kFf70f3YivNE5MyJQ91CwS/ACFB?node-id=690984-1625&scaling=min-zoom&page-id=77%3A432&starting-point-node-id=690833%3A696
+1. [Partner Figma Prototype](https://www.figma.com/proto/kFf70f3YivNE5MyJQ91CwS/ACFB?node-id=690984-1625&scaling=min-zoom&page-id=77%3A432&starting-point-node-id=690833%3A696 "Partner Prototype")
 
-2. User Figma Prototype: https://www.figma.com/proto/kFf70f3YivNE5MyJQ91CwS/ACFB?node-id=690822-663&scaling=min-zoom&page-id=690817%3A613&starting-point-node-id=690839%3A1207
+2. [User Figma Prototype](https://www.figma.com/proto/kFf70f3YivNE5MyJQ91CwS/ACFB?node-id=690822-663&scaling=min-zoom&page-id=690817%3A613&starting-point-node-id=690839%3A1207 "User Prototype")
 
 Click in and start exploring our designs!
 
